@@ -34,6 +34,13 @@ To get started with FileFlex, follow these steps:
 
 After installation, you can use FileFlex to change file extensions easily. Detailed usage instructions along with screenshots will be added here soon.
 
+![Landing Page](https://github.com/pra2107tham/FileFlex/images/landing.png)
+Landing Page
+
+![File-Conversion](https://github.com/pra2107tham/FileFlex/images/getstarted.png)
+File-Conversion
+
+
 ## Contributing
 
 Contributions are welcome! Please follow these steps to contribute:
